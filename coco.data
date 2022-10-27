@@ -1,0 +1,7 @@
+classes= 80
+train  = 
+valid  = coco_testdev
+names = coco.names
+backup = 
+eval=coco
+
