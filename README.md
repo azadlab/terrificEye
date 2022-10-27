@@ -10,6 +10,8 @@
 * DarkNet (Yolov4)
 * NVIDIA SoC board (e.g. Jetson TK1, Nano)
 
+(Compiled Binary of Darknet library here is for running on Desktop. You'll have to compile darknet on the ARM hardware to generate the respective library.)
+
 ![title cover image](hardware.png)
 
 
